@@ -62,7 +62,6 @@ return {
 	-- Seamless Ctrl+hjkl navigation between vim splits and tmux panes
 	{
 		"christoomey/vim-tmux-navigator",
-		lazy = false,
 		cmd = {
 			"TmuxNavigateLeft",
 			"TmuxNavigateDown",
